@@ -108,8 +108,10 @@ _______________________
 <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /> >  FriedGeorge#3780
 
 <a href="https://twitter.com/dolias1/">
-  <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /> > @dolias1 <br>
+  <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /> > @dolias1
 </a>
+
+<br> <br>
 
 <a href="https://www.instagram.com/george.dolias/">
   <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /> > @george.dolias
