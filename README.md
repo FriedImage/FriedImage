@@ -1,6 +1,6 @@
 <h1 align="center">
 
-  <code> // Hello there 👋😎 </code>
+    > // Hello there 👋😎
 
 </h1>
 
@@ -39,11 +39,11 @@ _______________________
 
 💫 I am currently a beginner programmer and still learning more and more up to this day but I have knowledge in
 
-    > Java
-    > HTML & Markdown
-    > OracleSQL
-    > C++
-    > Python
+    > // Java
+    > // HTML & Markdown
+    > // OracleSQL
+    > // C++
+    > // Python
 
 <div>
   <div style="padding: 2px;">
