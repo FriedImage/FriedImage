@@ -1,17 +1,3 @@
-<style>
-  .content {
-    border: 10px outset hotpink;
-    padding: 10px;
-    margin: 10px;
-  },
-  .column {
-    padding: 5px;
-  },
-  .row::after {
-    align: center;
-  }
-</style>
-
 <h1 style="text-align: center">
 
   <code> // Hello there 👋😎 </code>
@@ -22,7 +8,7 @@
   <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name.png" />
 </a>
 
-<div class="content">
+<div style="border: 10px outset hotpink; padding: 10px; margin: 10px;">
   <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
 
   _______________________
@@ -59,17 +45,18 @@ _______________________
     > C++
     > Python
 
-<div class="row"><center>
-  <div class="column">
+<div><center>
+  <div style="padding: 2px;">
     <img width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="40px" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></div>
+    <img width="40px" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+  </div>
   
-  <div class="column">
+  <div style="padding: 2px;">
     <img width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img width="40px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//cplusplus/cplusplus-original.svg" />
   </div>
 
-  <div class="column">
+  <div style="padding: 2px;">
     <img width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
     <img width="40px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
   </div></center>
