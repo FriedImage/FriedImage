@@ -1,4 +1,4 @@
-<h1 style = "text-align: center">
+<h1 style="text-align: center">
 
   `// Hello there 👋😎`
 
@@ -27,15 +27,15 @@
 
   _______________________
 
-##### 🏄‍♂️ My name is George, I am 19 years old and live in Greece
+<h5> 🏄‍♂️ My name is George, I am 19 years old and live in Greece
 
 <br>
 
-##### 👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
+👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
 
 <br>
 
-##### 👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way
+👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way
 
 <br>
 
@@ -88,7 +88,7 @@ _______________________
 
 _______________________
 
-##### 🎮 My hobbies include gaming, listening to music, coding, playing the harmonica sometimes and staying home (*￣︶￣*  )🍵
+<h5> 🎮 My hobbies include gaming, listening to music, coding, playing the harmonica sometimes and staying home (*￣︶￣*  )🍵</h5>
 
   </details>
 </div>
