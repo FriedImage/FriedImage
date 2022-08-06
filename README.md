@@ -24,7 +24,7 @@
 <br>
 
 <p align="center">
-  <small> fun fact! My last name is pronounced like this: dolyash </small>
+  <sub> fun fact! My last name is pronounced like this: dolyash </sub>
 </p>
 
 </details></div>
