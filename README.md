@@ -1,6 +1,6 @@
 <h1 style="text-align: center">
 
-  `// Hello there 👋😎`
+  <code> // Hello there 👋😎 </code>
 
 </h1>
 
@@ -23,25 +23,21 @@
 </a>
 
 <div class="content">
-  <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary></h3>
+  <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
 
   _______________________
 
-<h5> 🏄‍♂️ My name is George, I am 19 years old and live in Greece
+<font size="2"> 🏄‍♂️ My name is George, I am 19 years old and live in Greece </font>
 
-<br>
+<font size="2"> 👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future </font>
 
-👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
-
-<br>
-
-👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way</h5>
+<font size="2"> 👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way </font>
 
 <br>
 
 <center>
 
-###### fun fact! My last name is pronounced like this: dolyash
+<sub> fun fact! My last name is pronounced like this: dolyash </sub></h3>
 
 </center>
 
