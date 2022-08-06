@@ -23,7 +23,7 @@
 </a>
 
 <div class="content">
-  <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
+  <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary></h3>
 
   _______________________
 
@@ -35,7 +35,7 @@
 
 <br>
 
-👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way
+👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way</h5>
 
 <br>
 
