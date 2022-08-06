@@ -23,11 +23,9 @@
 
 <br>
 
-<center>
-
-<small> fun fact! My last name is pronounced like this: dolyash </small>
-
-</center>
+<p align="center">
+  <small> fun fact! My last name is pronounced like this: dolyash </small>
+</p>
 
 </details></div>
 <!-- end of about myself -->
@@ -47,21 +45,27 @@ _______________________
     > C++
     > Python
 
-<div><center>
+<div>
   <div style="padding: 2px;">
-    <img width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="40px" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    <p align="center">
+      <img width="40px" alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+      <img width="40px" alt="SQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
+    </p>
   </div>
   
   <div style="padding: 2px;">
-    <img width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img width="40px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//cplusplus/cplusplus-original.svg" />
+    <p align="center">
+      <img width="40px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+      <img width="40px" alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//cplusplus/cplusplus-original.svg" />
+    </p>
   </div>
 
   <div style="padding: 2px;">
-    <img width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
-    <img width="40px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  </div></center>
+    <p align="center">
+      <img width="40px" alt="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+      <img width="40px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+    </p>
+  </div>
 </div>
 </div>
 <!-- end of skills & languages div -->
