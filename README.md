@@ -1,9 +1,3 @@
-<h1 style="text-align: center">
-
-  <code> // Hello there 👋😎 </code>
-
-</h1>
-
 <style>
   .content {
     border: 10px outset hotpink;
@@ -17,6 +11,12 @@
     align: center;
   }
 </style>
+
+<h1 style="text-align: center">
+
+  <code> // Hello there 👋😎 </code>
+
+</h1>
 
 <a href="https://friedimage.github.io">
   <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name.png" />
