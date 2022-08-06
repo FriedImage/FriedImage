@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://friedimage.github.io">
-    <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name.jpg" />
+    <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name_clickme.jpg" />
   </a>
 </p>
 
