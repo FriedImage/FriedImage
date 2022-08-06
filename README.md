@@ -1,12 +1,14 @@
-<h1 style="text-align: center">
+<h1 align="center">
 
   <code> // Hello there 👋😎 </code>
 
 </h1>
 
-<a href="https://friedimage.github.io">
-  <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name.png" />
-</a>
+<p align="center">
+  <a href="https://friedimage.github.io">
+    <img align="center" alt="George Ntolias" width="1000px" padding-bottom="10px" src="https://raw.githubusercontent.com/FriedImage/FriedImage/main/images/name.png" />
+  </a>
+</p>
 
 <div style="border: 10px outset hotpink; padding: 10px; margin: 10px;">
   <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
