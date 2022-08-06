@@ -110,21 +110,28 @@ _______________________
 📩 For inquiries you can always contact with me by sending me an [e-mail](mailto:ntoliasg@gmail.com) OR through any of my socials below
 
 <div>
-  <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /> >  FriedGeorge#3780
+  <p>
+    >
+    <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /> FriedGeorge#3780
+  </p>
 </div>
 
 <div>
-  >
-  <a href="https://twitter.com/dolias1/">
-    <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /> @dolias1
-  </a>
+  <p>
+    >
+    <a href="https://twitter.com/dolias1/">
+      <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" /> @dolias1
+    </a>
+  </p>
 </div>
 
 <div>
-  >
-  <a href="https://www.instagram.com/george.dolias/">
-    <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /> @george.dolias
-  </a>
+  <p>
+    >
+    <a href="https://www.instagram.com/george.dolias/">
+      <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /> @george.dolias
+    </a>
+  </p>
 </div>
 
 </div>
