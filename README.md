@@ -10,8 +10,8 @@
   </a>
 </p>
 
-<div style="border: 10px outset hotpink; padding: 10px; margin: 10px;">
-  <div><h3><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
+<div style="border: 10px inset hotpink; padding: 10px; margin: 10px;">
+  <div><details><summary><b> 👨‍💻 <u> About myself </u></b></summary>
 
   _______________________
 
@@ -25,7 +25,7 @@
 
 <center>
 
-<sub> fun fact! My last name is pronounced like this: dolyash </sub></h3>
+<sub> fun fact! My last name is pronounced like this: dolyash </sub>
 
 </center>
 
