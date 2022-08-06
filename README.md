@@ -11,7 +11,7 @@
 </p>
 
 <div style="border: 10px padding: 10px; margin: 10px;">
-  <div><details><summary><b><big> 👨‍💻 <u> About myself </big></u></b></summary>
+  <div><details><summary align="center"><b><big> 👨‍💻 <u> About myself </big></u></b></summary>
 
   _______________________
 
@@ -33,7 +33,7 @@
 _______________________
 
 <div>
-  <details><big><summary><b> 💻 <u> Skills & Languages </u></b></big></summary>
+  <details><big><summary align="center"><b> 💻 <u> Skills & Languages </u></b></big></summary>
 
 _______________________
 
@@ -73,7 +73,7 @@ _______________________
 _______________________
 
 <div>
-  <details><big><summary><b> 🎈 <u> Hobbies </u></b></big></summary>
+  <details><big><summary align="center"><b> 🎈 <u> Hobbies </u></b></big></summary>
 
 _______________________
 
@@ -86,7 +86,7 @@ _______________________
 _______________________
 
 <div>
-  <details><big><summary><b> ✨ <u> Personal Goals </u></b></big></summary>
+  <details><big><summary align="center"><b> ✨ <u> Personal Goals </u></b></big></summary>
 
 _______________________
 
@@ -103,7 +103,7 @@ _______________________
 _______________________
 
 <div>
-  <details><big><summary><b> 💬 <u> Contact Info </u></b></big></summary>
+  <details><big><summary align="center"><b> 💬 <u> Contact Info </u></b></big></summary>
 
 _______________________
 
