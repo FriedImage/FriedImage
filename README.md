@@ -103,7 +103,7 @@ _______________________
 _______________________
 
 <div>
-  <details><big><summary align="center"><b> 💬 <u> Contact Info </u></b></big></summary>
+  <details><big><summary align="center"><b> 💬 <u> Contact Info </u><h4></h4></b></big></summary>
 
 _______________________
 
@@ -132,6 +132,10 @@ _______________________
       <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /> @george.dolias
     </a>
   </p>
+</div>
+
+<div>
+
 </div>
 
 </div>
