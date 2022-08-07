@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<div style="border: 10px padding: 10px; margin: 10px;">
+<div style="border: 10px; padding: 10px; margin: 10px;">
   <div><details><summary align="center"><b><big> 👨‍💻 <u> About myself </big></u></b></summary>
 
   _______________________
@@ -66,9 +66,31 @@ _______________________
       <img width="40px" alt="Markdown" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
     </p>
   </div>
-</div>
+</div></details>
 </div>
 <!-- end of skills & languages div -->
+
+_______________________
+
+<div>
+  <details><big><summary align="center"><b> 🍴 <u> GitHub Stats </u></b></big></summary>
+
+_______________________
+
+<div style="padding: 10px; margin: 10px;" align="center">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FriedImage&theme=jolly&show_icons=true&count_private=true)
+
+</div>
+
+<div style="margin: 10px;" align="center">
+
+  [![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriedImage)](https://github.com/anuraghazra/github-readme-stats)
+
+</div></details>
+
+</div>
+<!-- end of github stats div -->
 
 _______________________
 
@@ -103,7 +125,7 @@ _______________________
 _______________________
 
 <div>
-  <details><big><summary align="center"><b> 💬 <u> Contact Info </u><h4></h4></b></big></summary>
+  <details><big><summary align="center"><b> 💬 <u> Contact Info </u></b></big></summary>
 
 _______________________
 
@@ -132,12 +154,7 @@ _______________________
       <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Instagram&color=E4405F&logo=Instagram&logoColor=FFFFFF&label=" /> @george.dolias
     </a>
   </p>
-</div>
-
-<div>
-
-</div>
-
+</div></details>
 </div>
 <!-- end of contact info div -->
 
