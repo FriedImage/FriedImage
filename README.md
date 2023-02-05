@@ -83,7 +83,7 @@ _______________________
 
 </div>
 
-<div style="margin: 10px;" align="center">
+<div style="padding: 10px; margin: 10px;" align="center">
 
   [![Anurag's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FriedImage)](https://github.com/anuraghazra/github-readme-stats)
 
