@@ -15,7 +15,7 @@
 
   _______________________
 
-🏄‍♂️ My name is George, I am 19 years old and live in Greece
+🏄‍♂️ My name is George, I am 20 years old and live in Greece
 
 👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
 
