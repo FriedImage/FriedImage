@@ -134,7 +134,7 @@ _______________________
 <div>
   <p>
     >
-    <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /> FriedGeorge#3780
+    <img align="right" width="10%" src="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=" /> @friedgeorge
   </p>
 </div>
 
