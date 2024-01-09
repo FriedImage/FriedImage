@@ -15,7 +15,7 @@
 
   _______________________
 
-🏄‍♂️ My name is George, I am 20 years old and live in Greece
+🏄‍♂️ My name is George, I am 21 years old and live in Greece
 
 👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
 
@@ -40,8 +40,8 @@ _______________________
 💫 I am currently a beginner programmer and still learning more and more up to this day but I have knowledge in
 
     > // Java
-    > // HTML & Markdown
-    > // OracleSQL
+    > // HTML5 & Markdown & CSS
+    > // OracleSQL, MySQL
     > // C++
     > // Python
 
@@ -117,6 +117,10 @@ _______________________
 <br>
 
 📌 Start a number of small or maybe bigger projects in various programming languages for more experience
+
+<br>
+
+📌 Work as a Front-End developer
 
   </details>
 </div>
