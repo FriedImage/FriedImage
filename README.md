@@ -17,7 +17,7 @@
 
 🏄‍♂️ My name is George, I am 21 years old and live in Greece
 
-👨‍🎓 I am also currently an undergraduate university student in my 2nd year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
+👨‍🎓 I am also currently an undergraduate university student in my 4th year of studying <i><b>Computer Science</b></i> in hopes to becoming a programmer in the future
 
 👨‍💻 I picked up programming since high school. I've always liked computers, since I spent and spend most of my time with them, also playing video games along the way
 
