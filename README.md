@@ -99,7 +99,7 @@ _______________________
 
 _______________________
 
-🎮 My hobbies include gaming, listening to music, coding, playing the harmonica sometimes and staying home (*￣︶￣*  )🍵
+🎮 My hobbies include gaming, listening to music, coding, sometimes playing the harmonica and staying home (*￣︶￣*  )🍵
 
   </details>
 </div>
